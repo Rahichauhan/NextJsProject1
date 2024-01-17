@@ -70,7 +70,7 @@ export default function Home() {
               Secure for every user, every time
               </h2>
               <p className="top-28 my-[1em] text-gray-700">
-              Security isn't an afterthought at Langdock. It's our core commitment. We've built robust processes to keep your data safe, your workspace private, and your information accurate.
+              Security isn`&apos;`t an afterthought at Langdock. It`&apos;`s our core commitment. We`&apos;`ve built robust processes to keep your data safe, your workspace private, and your information accurate.
               </p>
               <Link href="/">
                     <div className="flex justify-start  font-bold font-system hover:font-semibold">
