@@ -3,6 +3,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import Logo from '../../public/Landdock.jpg';
 import { Button } from './button';
+
 interface NavLinkProps {
   href: string;
   text: string;
